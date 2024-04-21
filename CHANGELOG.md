@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+The package blocks the app's screen view by blurring it when the app is in the background.
