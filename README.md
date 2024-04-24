@@ -1,5 +1,9 @@
 A Flutter package for blocking the app's screen view by blurring it when the app is in the background.
 
+<p align="center">
+  <img src="https://github.com/AslamThachapalli/shield_view/assets/113328135/aebf307d-b4a0-47ba-bb03-d9c7ca4ccb58" width="300"/>
+</p>
+
 ## Usage
 
 Import the package as:
