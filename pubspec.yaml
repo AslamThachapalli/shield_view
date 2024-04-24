@@ -1,7 +1,7 @@
 name: shield_view
 description: "The package blocks the app's screen view by blurring it when the app is in the background."
 version: 1.0.0
-homepage:
+repository: https://github.com/AslamThachapalli/shield_view
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
